@@ -1,0 +1,1 @@
+Math expression evaluator with shell. Requires C++17 compiler.
